@@ -7,19 +7,47 @@
       "RelativeMoniker": "D:0:0:{FE77F897-42E0-45FD-9F54-6E61445A09D2}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE77F897-42E0-45FD-9F54-6E61445A09D2}|SuperAdventure\\SuperAdventure.csproj|c:\\users\\ronis\\onedrive - global college of management\\adventure\\superadventure\\superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{230A13DE-373B-4E3A-B530-165B8CA980EA}|Engine\\Engine.csproj|c:\\users\\ronis\\onedrive - global college of management\\adventure\\superadventure\\engine\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230A13DE-373B-4E3A-B530-165B8CA980EA}|Engine\\Engine.csproj|solutionrelative:engine\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230A13DE-373B-4E3A-B530-165B8CA980EA}|Engine\\Engine.csproj|c:\\users\\ronis\\onedrive - global college of management\\adventure\\superadventure\\engine\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230A13DE-373B-4E3A-B530-165B8CA980EA}|Engine\\Engine.csproj|solutionrelative:engine\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230A13DE-373B-4E3A-B530-165B8CA980EA}|Engine\\Engine.csproj|c:\\users\\ronis\\onedrive - global college of management\\adventure\\superadventure\\engine\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230A13DE-373B-4E3A-B530-165B8CA980EA}|Engine\\Engine.csproj|solutionrelative:engine\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230A13DE-373B-4E3A-B530-165B8CA980EA}|Engine\\Engine.csproj|c:\\users\\ronis\\onedrive - global college of management\\adventure\\superadventure\\engine\\livingcreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230A13DE-373B-4E3A-B530-165B8CA980EA}|Engine\\Engine.csproj|solutionrelative:engine\\livingcreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230A13DE-373B-4E3A-B530-165B8CA980EA}|Engine\\Engine.csproj|c:\\users\\ronis\\onedrive - global college of management\\adventure\\superadventure\\engine\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230A13DE-373B-4E3A-B530-165B8CA980EA}|Engine\\Engine.csproj|solutionrelative:engine\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230A13DE-373B-4E3A-B530-165B8CA980EA}|Engine\\Engine.csproj|c:\\users\\ronis\\onedrive - global college of management\\adventure\\superadventure\\engine\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230A13DE-373B-4E3A-B530-165B8CA980EA}|Engine\\Engine.csproj|solutionrelative:engine\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230A13DE-373B-4E3A-B530-165B8CA980EA}|Engine\\Engine.csproj|c:\\users\\ronis\\onedrive - global college of management\\adventure\\superadventure\\engine\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230A13DE-373B-4E3A-B530-165B8CA980EA}|Engine\\Engine.csproj|solutionrelative:engine\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE77F897-42E0-45FD-9F54-6E61445A09D2}|SuperAdventure\\SuperAdventure.csproj|C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FE77F897-42E0-45FD-9F54-6E61445A09D2}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE77F897-42E0-45FD-9F54-6E61445A09D2}|SuperAdventure\\SuperAdventure.csproj|c:\\users\\ronis\\onedrive - global college of management\\adventure\\superadventure\\superadventure\\superadventure.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE77F897-42E0-45FD-9F54-6E61445A09D2}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE77F897-42E0-45FD-9F54-6E61445A09D2}|SuperAdventure\\SuperAdventure.csproj|c:\\users\\ronis\\onedrive - global college of management\\adventure\\superadventure\\superadventure\\superadventure.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{FE77F897-42E0-45FD-9F54-6E61445A09D2}|SuperAdventure\\SuperAdventure.csproj|C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\superadventure\\superadventure.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{FE77F897-42E0-45FD-9F54-6E61445A09D2}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE77F897-42E0-45FD-9F54-6E61445A09D2}|SuperAdventure\\SuperAdventure.csproj|c:\\users\\ronis\\onedrive - global college of management\\adventure\\superadventure\\superadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE77F897-42E0-45FD-9F54-6E61445A09D2}|SuperAdventure\\SuperAdventure.csproj|C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\superadventure\\superadventure.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE77F897-42E0-45FD-9F54-6E61445A09D2}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE77F897-42E0-45FD-9F54-6E61445A09D2}|SuperAdventure\\SuperAdventure.csproj|C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\superadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE77F897-42E0-45FD-9F54-6E61445A09D2}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +58,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LivingCreature.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\Engine\\LivingCreature.cs",
+              "RelativeDocumentMoniker": "Engine\\LivingCreature.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\Engine\\LivingCreature.cs",
+              "RelativeToolTip": "Engine\\LivingCreature.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:57:55.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\Engine\\Quest.cs",
+              "RelativeDocumentMoniker": "Engine\\Quest.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\Engine\\Quest.cs",
+              "RelativeToolTip": "Engine\\Quest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:34:07.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\Engine\\Player.cs",
+              "RelativeDocumentMoniker": "Engine\\Player.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\Engine\\Player.cs",
+              "RelativeToolTip": "Engine\\Player.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T01:56:26.395Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,14 +107,66 @@
               "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.cs",
               "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
               "RelativeToolTip": "SuperAdventure\\SuperAdventure.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwB8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T03:09:37.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\Engine\\Weapon.cs",
+              "RelativeDocumentMoniker": "Engine\\Weapon.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\Engine\\Weapon.cs",
+              "RelativeToolTip": "Engine\\Weapon.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:34:32.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealingPotion.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\Engine\\HealingPotion.cs",
+              "RelativeDocumentMoniker": "Engine\\HealingPotion.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\Engine\\HealingPotion.cs",
+              "RelativeToolTip": "Engine\\HealingPotion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:27:29.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\Engine\\Monster.cs",
+              "RelativeDocumentMoniker": "Engine\\Monster.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\Engine\\Monster.cs",
+              "RelativeToolTip": "Engine\\Monster.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:31:08.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\Engine\\Location.cs",
+              "RelativeDocumentMoniker": "Engine\\Location.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\Engine\\Location.cs",
+              "RelativeToolTip": "Engine\\Location.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:30:24.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "SuperAdventure.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
               "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.cs",
@@ -59,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "SuperAdventure.resx",
               "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\SuperAdventure\\SuperAdventure.resx",
               "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.resx",
@@ -71,13 +190,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "SuperAdventure.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\SuperAdventure\\SuperAdventure.Designer.cs",
               "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.Designer.cs",
               "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\SuperAdventure\\SuperAdventure.Designer.cs",
               "RelativeToolTip": "SuperAdventure\\SuperAdventure.Designer.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAKAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T03:37:12.508Z",
               "EditorCaption": ""
@@ -88,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\adventure\\SuperAdventure\\SuperAdventure\\Program.cs",
               "RelativeDocumentMoniker": "SuperAdventure\\Program.cs",
@@ -96,8 +215,7 @@
               "RelativeToolTip": "SuperAdventure\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T03:04:45.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T03:04:45.482Z"
             },
             {
               "$type": "Bookmark",

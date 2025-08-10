@@ -36,7 +36,6 @@
             this.lblGold = new System.Windows.Forms.Label();
             this.lblExperience = new System.Windows.Forms.Label();
             this.lblLevel = new System.Windows.Forms.Label();
-            this.btnTest = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -79,17 +78,16 @@
             // 
             this.lblHitPoints.AccessibleName = "";
             this.lblHitPoints.AutoSize = true;
-            this.lblHitPoints.Location = new System.Drawing.Point(110, 19);
+            this.lblHitPoints.Location = new System.Drawing.Point(145, 19);
             this.lblHitPoints.Name = "lblHitPoints";
             this.lblHitPoints.Size = new System.Drawing.Size(0, 25);
             this.lblHitPoints.TabIndex = 4;
-            this.lblHitPoints.Click += new System.EventHandler(this.label5_Click);
             // 
             // lblGold
             // 
             this.lblGold.AccessibleName = "";
             this.lblGold.AutoSize = true;
-            this.lblGold.Location = new System.Drawing.Point(110, 45);
+            this.lblGold.Location = new System.Drawing.Point(145, 45);
             this.lblGold.Name = "lblGold";
             this.lblGold.Size = new System.Drawing.Size(0, 25);
             this.lblGold.TabIndex = 5;
@@ -98,7 +96,7 @@
             // 
             this.lblExperience.AccessibleName = "";
             this.lblExperience.AutoSize = true;
-            this.lblExperience.Location = new System.Drawing.Point(110, 73);
+            this.lblExperience.Location = new System.Drawing.Point(145, 73);
             this.lblExperience.Name = "lblExperience";
             this.lblExperience.Size = new System.Drawing.Size(0, 25);
             this.lblExperience.TabIndex = 6;
@@ -107,21 +105,10 @@
             // 
             this.lblLevel.AccessibleName = "";
             this.lblLevel.AutoSize = true;
-            this.lblLevel.Location = new System.Drawing.Point(110, 99);
+            this.lblLevel.Location = new System.Drawing.Point(145, 99);
             this.lblLevel.Name = "lblLevel";
             this.lblLevel.Size = new System.Drawing.Size(0, 25);
             this.lblLevel.TabIndex = 7;
-            // 
-            // btnTest
-            // 
-            this.btnTest.AccessibleName = "";
-            this.btnTest.Location = new System.Drawing.Point(166, 262);
-            this.btnTest.Name = "btnTest";
-            this.btnTest.Size = new System.Drawing.Size(161, 48);
-            this.btnTest.TabIndex = 8;
-            this.btnTest.Text = "button1";
-            this.btnTest.UseVisualStyleBackColor = true;
-            this.btnTest.Click += new System.EventHandler(this.button1_Click);
             // 
             // SuperAdventure
             // 
@@ -129,7 +116,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(709, 619);
-            this.Controls.Add(this.btnTest);
             this.Controls.Add(this.lblLevel);
             this.Controls.Add(this.lblExperience);
             this.Controls.Add(this.lblGold);
@@ -140,7 +126,6 @@
             this.Controls.Add(this.label1);
             this.Name = "SuperAdventure";
             this.Text = "My Game";
-            this.Load += new System.EventHandler(this.SuperAdventure_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -156,7 +141,7 @@
         private System.Windows.Forms.Label lblGold;
         private System.Windows.Forms.Label lblExperience;
         private System.Windows.Forms.Label lblLevel;
-        private System.Windows.Forms.Button btnTest;
+        
     }
 }
 

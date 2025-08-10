@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Engine;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,24 +13,18 @@ namespace SuperAdventure
 {
     public partial class SuperAdventure : Form
     {
+        private Player _player;
         public SuperAdventure()
         {
             InitializeComponent();
+            Location location = new Location(1,"Home","THis is your House");
+            _player = new Player(10, 10, 20, 0, 1);
+            lblExperience.Text=_player.ExperiencePoints.ToString();
+            
         }
 
-        private void SuperAdventure_Load(object sender, EventArgs e)
-        {
+        
 
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            lblGold.Text = "123";
-        }
+        
     }
 }
