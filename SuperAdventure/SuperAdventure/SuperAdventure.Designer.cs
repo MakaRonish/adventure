@@ -43,7 +43,7 @@
             this.btnUsePotion = new System.Windows.Forms.Button();
             this.btnNorth = new System.Windows.Forms.Button();
             this.btnEast = new System.Windows.Forms.Button();
-            this.South = new System.Windows.Forms.Button();
+            this.btnSouth = new System.Windows.Forms.Button();
             this.btnWest = new System.Windows.Forms.Button();
             this.rtbLocation = new System.Windows.Forms.RichTextBox();
             this.rtbMessages = new System.Windows.Forms.RichTextBox();
@@ -177,6 +177,7 @@
             this.btnNorth.Text = "North";
             this.btnNorth.UseVisualStyleBackColor = true;
             this.btnNorth.UseWaitCursor = true;
+            this.btnNorth.Click += new System.EventHandler(this.btnNorth_Click);
             // 
             // btnEast
             // 
@@ -186,15 +187,17 @@
             this.btnEast.TabIndex = 14;
             this.btnEast.Text = "East";
             this.btnEast.UseVisualStyleBackColor = true;
+            this.btnEast.Click += new System.EventHandler(this.btnEast_Click);
             // 
-            // South
+            // btnSouth
             // 
-            this.South.Location = new System.Drawing.Point(493, 487);
-            this.South.Name = "South";
-            this.South.Size = new System.Drawing.Size(84, 29);
-            this.South.TabIndex = 15;
-            this.South.Text = "South";
-            this.South.UseVisualStyleBackColor = true;
+            this.btnSouth.Location = new System.Drawing.Point(493, 487);
+            this.btnSouth.Name = "btnSouth";
+            this.btnSouth.Size = new System.Drawing.Size(84, 29);
+            this.btnSouth.TabIndex = 15;
+            this.btnSouth.Text = "South";
+            this.btnSouth.UseVisualStyleBackColor = true;
+            this.btnSouth.Click += new System.EventHandler(this.btnSouth_Click);
             // 
             // btnWest
             // 
@@ -205,6 +208,7 @@
             this.btnWest.Text = "West";
             this.btnWest.UseVisualStyleBackColor = true;
             this.btnWest.Visible = false;
+            this.btnWest.Click += new System.EventHandler(this.btnWest_Click);
             // 
             // rtbLocation
             // 
@@ -263,7 +267,7 @@
             this.Controls.Add(this.rtbMessages);
             this.Controls.Add(this.rtbLocation);
             this.Controls.Add(this.btnWest);
-            this.Controls.Add(this.South);
+            this.Controls.Add(this.btnSouth);
             this.Controls.Add(this.btnEast);
             this.Controls.Add(this.btnNorth);
             this.Controls.Add(this.btnUsePotion);
@@ -305,7 +309,7 @@
         private System.Windows.Forms.Button btnUsePotion;
         private System.Windows.Forms.Button btnNorth;
         private System.Windows.Forms.Button btnEast;
-        private System.Windows.Forms.Button South;
+        private System.Windows.Forms.Button btnSouth;
         private System.Windows.Forms.Button btnWest;
         private System.Windows.Forms.RichTextBox rtbLocation;
         private System.Windows.Forms.RichTextBox rtbMessages;
